@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: metrics
+  webflux:
+    base-path: /${spring.application.name}
+
+management:
+  metrics:
+    enable:
+      jvm: true
+    distribution:
+      sla:
+        http.server.requests: 1s
+      percentiles:
+        http.server.requests: 0.50, 0.75, 0.90, 0.95, 0.99
+        http.client.requests: 0.50, 0.75, 0.90, 0.95, 0.99
+    export:
+      prometheus:
+        enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: health, info, prometheus

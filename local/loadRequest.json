@@ -1,0 +1,383 @@
+{
+  "person": {
+    "externalPersonId": "536235902727",
+    "applicationId": "981645014809",
+    "firstName": "ТЕСТ",
+    "lastName": "ТЕСТОВЫЙ",
+    "middleName": "ТЕСТОВИЧ",
+    "maidenName": "",
+    "dateOfBirth": "1988-11-22",
+    "cellularPhone": "+79460050969",
+    "mf": "M",
+    "idType": "Паспорт",
+    "placeOfBirth": "МОСКВА",
+    "citizenship": "РФ",
+    "inn": "269611522794",
+    "pensionCardNumber": "16258205664",
+    "integrationId": "20191226114140546PTL646521_1",
+    "emailAddress": "1704@tinkoff.ru",
+    "education": "Высшее",
+    "income": 250000,
+    "maritalStatus": "Женат/замужем",
+    "motherMaidenName": "Девичьева",
+    "numberOfChildren": 0,
+    "homePhone": "+79133980199",
+    "workPhone": "+74952526198",
+    "otherPhone": "+79267760949",
+    "additionalPhone": "88032610949",
+    "additionalMobilePhone": "89101650949",
+    "addresses": [
+      {
+        "cladrCode": "77000000000168600",
+        "postalCode": "125080",
+        "country": "РОССИЯ",
+        "state": "МОСКВА",
+        "district": "москва",
+        "city": "МОСКВА",
+        "settlement": "",
+        "streetAddress": "Ш ШОССЕ",
+        "houseNum": "679",
+        "buildingNum": "а",
+        "constructionNum": "3",
+        "apartmentNumber": "109",
+        "addressType": "Работы"
+      },
+      {
+        "cladrCode": "77000000000168600",
+        "postalCode": "111116",
+        "country": "РОССИЯ",
+        "state": "МОСКВА",
+        "city": "МОСКВА",
+        "streetAddress": "УЛ УЛИЦ",
+        "houseNum": "454",
+        "apartmentNumber": "19",
+        "addressType": "Регистрации"
+      },
+      {
+        "cladrCode": "77000000000168600",
+        "postalCode": "111116",
+        "country": "РОССИЯ",
+        "state": "МОСКВА",
+        "city": "МОСКВА",
+        "streetAddress": "УЛ УЛИЦ",
+        "houseNum": "805",
+        "apartmentNumber": "9",
+        "addressType": "Жительства"
+      }
+    ],
+    "documents": {
+      "passports": [
+        {
+          "type": "actual",
+          "series": "4515",
+          "number": "307007",
+          "organization": "ОВД ОВД",
+          "divisionCode": "111-102",
+          "issueDate": "2019-02-02",
+          "lastName": "ТЕСТ",
+          "firstName": "ТЕСТОВЫЙ",
+          "middleName": "ТУСТОВИЧ"
+        }
+      ]
+    },
+    "employmentHistory": [
+      {
+        "startDate": "2012-05-13",
+        "endDate": "2015-01-23",
+        "jobPositionType": "РУКОВОДИТЕЛЬ",
+        "jobTitle": "Специалист",
+        "divisionName": "ООО",
+        "companyName": "БУКАШКА",
+        "numberOfEmployees": "120"
+      }
+    ],
+    "financialStatement": {
+      "expenses": [
+        {
+          "amount": 27.5,
+          "category": "Арендная плата",
+          "currency": "RUR",
+          "frequency": "Ежемесячно"
+        }
+      ]
+    },
+    "verificationNegatives": [
+      "1a22de8a-64f3-4e41-8327-51c19325c490:29"
+    ],
+    "vehicles": [
+      {
+        "actionIntegrationId": "fsdsdfsdfsdfsdf",
+        "amount": 600000,
+        "color": "green",
+        "verificationDate": "2020-03-25",
+        "engineType": "reertertert",
+        "equipment": "gdrdgrgrd",
+        "integrationId": "bfgdfdfvdf",
+        "make": "hgfhdgdff",
+        "mileage": 230,
+        "model": "gfdgfdg",
+        "regNum": "gfdgdfgdf",
+        "rejectionReason": "rtetyyy",
+        "ssaPrimaryField": true,
+        "transmission": "qwertyuiop",
+        "vin": "43645765765",
+        "verificationStatus": "qwertyuiop",
+        "year": 2018,
+        "created": "2020-03-25T09:22:24.072",
+        "source": "yes"
+      }
+    ],
+    "pledgesData": {
+      "vehicles": [
+        {
+          "actionIntegrationId": "fsdsdfsdfsdfsdf",
+          "amount": 600000,
+          "color": "green",
+          "verificationDate": "2020-03-25",
+          "engineType": "reertertert",
+          "equipment": "gdrdgrgrd",
+          "integrationId": "bfgdfdfvdf",
+          "make": "hgfhdgdff",
+          "mileage": 230,
+          "model": "gfdgfdg",
+          "regNum": "gfdgdfgdf",
+          "rejectionReason": "rtetyyy",
+          "ssaPrimaryField": true,
+          "transmission": "qwertyuiop",
+          "vin": "43645765765",
+          "verificationStatus": "qwertyuiop",
+          "year": 2018,
+          "created": "2020-03-25T09:22:24.072",
+          "source": "yes"
+        }
+      ],
+      "realties": [
+        {
+          "activeFlag": true,
+          "integrationId": "13454654",
+          "assessmentStatus": "fdsfsdf",
+          "pledgeCost": 10,
+          "actionIntegrationId": "345678",
+          "rosreestrBranchName": "dsfsdfsd",
+          "addressIntegrationId": "2345678",
+          "realEstateIsNowPledged": true
+        }
+      ]
+    }
+  },
+  "scoringParams": {
+    "scoringProject": "CREDIT_APPLICATION_PROCESSING",
+    "scoringStrategy": "COAPPLICANT_SCORING",
+    "callingChannel": "INT",
+    "channel": "",
+    "subChannel": "prospect",
+    "offer": "call_pointer",
+    "utmSource": "null",
+    "utmMedium": "dfssd",
+    "utmCampaign": "ккк",
+    "ip": "176.9.180.4",
+    "params": [
+      {
+        "name": "eiRequestPermissionFlg",
+        "value": "false"
+      },
+      {
+        "name": "bkiPermissionProcessFlg",
+        "value": "false"
+      },
+      {
+        "name": "suzChannel",
+        "value": "null"
+      },
+      {
+        "name": "suzSubchanel",
+        "value": "null"
+      },
+      {
+        "name": "foreign_passport",
+        "value": "1"
+      },
+      {
+        "name": "productType",
+        "value": "CLZG"
+      }
+    ],
+    "posAdditionalFields": {
+      "classOfPartner": 1,
+      "apple": 2,
+      "fpsSignal": 3,
+      "mainProductPart": 4,
+      "channelKvk": 5,
+      "payToReqAmt": 6,
+      "onlineFlag": "have",
+      "verifType": "true",
+      "kvkShortApp12fields": 2,
+      "educationFlg": 0,
+      "marriedFlg": 1,
+      "fraudStrategyCode": "auth"
+    },
+    "carDealershipProperties": {
+      "official": true,
+      "category": 4,
+      "comfortPayment": true,
+      "clientNotifications": true,
+      "officialBrands": [
+        "dfdsfse"
+      ],
+      "headerLevel": 4,
+      "regionCode": "fsefdrgdr",
+      "numberOfPoints": 6,
+      "kvCredit": 4,
+      "kvInsurance": 5
+    },
+    "requestedNegatives": [
+      ""
+    ],
+    "incomeSpecificationPerformed": false
+  },
+  "services": [
+    {
+      "serviceName": "EQUIFAX_SOC_SCORING",
+      "params": [
+        {
+          "name": "requestType",
+          "value": "individual_scoring_v1"
+        },
+        {
+          "name": "cacheDepth",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "serviceName": "EI",
+      "params": [
+        {
+          "name": "requestType",
+          "value": "scoringIndiv"
+        },
+        {
+          "name": "cacheDepth",
+          "value": "15"
+        }
+      ]
+    }
+  ],
+  "requestedProducts": [
+    {
+      "productType": "FinCoAppl",
+      "loyaltyProgram": "",
+      "requestedAmount": 500000,
+      "requestedTerm": 39,
+      "requestedDownPayment": 1700,
+      "requestedDesiredPayment": 50000,
+      "additionalFields": [
+        {
+          "name": "",
+          "value": ""
+        },
+        {
+          "name": "",
+          "value": ""
+        }
+      ],
+      "productId": "KY4DULB5L8Qr9",
+      "productInternalInfo": {
+        "productCommonInfo": [
+          {
+            "name": "identity_flg",
+            "value": "false"
+          }
+        ]
+      }
+    }
+  ],
+  "internalInfo": {
+    "commonInfo": [
+      {
+        "name": "jobPositionType",
+        "value": "РУКОВОДИТЕЛЬ"
+      },
+      {
+        "name": "state_res",
+        "value": "МОСКВА"
+      },
+      {
+        "name": "ignoreRejects",
+        "value": "false"
+      },
+      {
+        "name": "jobTitle",
+        "value": "Специалист"
+      },
+      {
+        "name": "companyName",
+        "value": "БУКАШКА"
+      },
+      {
+        "name": "bigCreditFlg",
+        "value": "0"
+      },
+      {
+        "name": "job_type_bad_flg",
+        "value": "false"
+      },
+      {
+        "name": "job_type_sme_flg",
+        "value": "false"
+      },
+      {
+        "name": "job_type_good_flg",
+        "value": "true"
+      },
+      {
+        "name": "bkiPermissionBasFlg",
+        "value": "false"
+      },
+      {
+        "name": "activeCreditFlg",
+        "value": "false"
+      },
+      {
+        "name": "MAX_MEAN_BALANCE_AMT",
+        "value": "0.0"
+      },
+      {
+        "name": "restructFlg",
+        "value": "false"
+      },
+      {
+        "name": "debit_low_risk_flg",
+        "value": "false"
+      },
+      {
+        "name": "state_reg",
+        "value": "МОСКВА"
+      },
+      {
+        "name": "DAYS_FROM_FIRST_UTLZ_DT",
+        "value": "0.0"
+      },
+      {
+        "name": "scoringDate",
+        "value": "2022-02-04T15:04:26+03:00"
+      },
+      {
+        "name": "secondCCFlg",
+        "value": "0"
+      },
+      {
+        "name": "goodCategoryFlg",
+        "value": "false"
+      },
+      {
+        "name": "job_type_gvm_flg",
+        "value": "false"
+      }
+    ],
+    "rmsServices": [
+      "RECS",
+      "ODM_PSS"
+    ]
+  }
+}
